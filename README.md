@@ -1,4 +1,5 @@
 # 12.6 Практическая работа
+https://coolbluedata.com/wp-content/uploads/2021/05/regression3.gif
 
 ## Цели практической работы
 Научиться использовать авторегрессионные модели SARIMAX, auto_arima, Prophet, TBATS для прогнозирования временных рядов.
